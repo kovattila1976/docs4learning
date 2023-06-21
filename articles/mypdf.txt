@@ -1,0 +1,1776 @@
+CHAPTER 2
+Units and groupings of units
+2.01 The economy of a country is a system whereby
+institutions and people interact through exchanges
+and transfers of goods, services and means of payment (e.g. money) for the production and consumption of goods and services.
+In the economy, the units interacting are economic
+entities that are capable of owning assets, incurring
+liabilities and engaging in economic activities and
+in transactions with other entities. They are known
+as institutional units.
+Defining the units used in national accounts serves
+various purposes. First, units are the essential building blocks in defining economies in geographical
+terms, e.g. nations, regions, and nation groupings
+such as monetary or political unions. Second, they
+are the essential building blocks for grouping units
+into institutional sectors. Third, they are essential
+for defining which flows and stocks are recorded.
+Transactions between various parts of the same
+institutional unit are, in principle, not recorded in
+the national accounts.
+2.02 The units and groupings of units used in national
+accounts shall be defined with reference to the
+kind of economic analysis for which they are
+intended, and not in terms of the types of unit usually employed in statistical inquiries. The latter
+units (e.g. enterprises, holding companies, kindof-activity units, local units, government departments, non-profit institutions, households, etc.)
+may not be satisfactory for the purposes of national
+accounts, since they are based on criteria of a legal,
+administrative or accounting nature.
+Statisticians shall take into account the definitions
+of units of analysis as laid down in the ESA 2010,
+in order to ensure that, in the surveys in which
+data are collected, all the elements of information
+needed to compile data based on the units of analysis used in the ESA 2010 are gradually introduced.
+2.03 A feature of the ESA 2010 system is the use of types
+of unit corresponding to three ways of subdividing
+the economy:
+((1) to analyse flows and positions, it is essential
+to select units which make it possible to study
+behavioural relationships among economic
+agents;
+((2) to analyse the process of production, it is essential to select units that bring out relationships
+of a technico-economic nature, or that reflect
+local activities;
+((3) to allow regional analyses, units that reflect
+local kinds of activity are needed.
+Institutional units are defined to meet the first
+of these objectives. Behavioural relationships, as
+described in point (1), require units reflecting all of
+their institutional economic activity.
+The production processes, technico-economic
+relationships and regional analyses referred to in
+points (2) and (3) require units such as local KAUs.
+These units are described later in this chapter.
+Before giving definitions of the units used in the
+ESA 2010, it is necessary to define the limits of the
+national economy.
+The limits of the national economy
+2.04 The units which constitute the economy of a country and whose flows and stocks are recorded in the
+ESA 2010 are those which are resident. An institutional unit is resident in a country when it has
+its centre of predominant economic interest in the
+economic territory of that country. Such units are
+known as resident units, irrespective of nationality,
+legal form or presence on the economic territory at
+the time they carry out a transaction.
+2.05 Economic territory consists of the following:
+2 Units and groupings of units
+26 European system of accounts — ESA 2010
+(a) the area (geographic territory) under the effective administration and economic control of a
+single government;
+(b) any free zones, including bonded warehouses
+and factories under customs control;
+(c) the national air-space, territorial waters and the
+continental shelf lying in international waters,
+over which the country enjoys exclusive rights;
+(d) territorial enclaves, these being geographic territories situated in the rest of the world and
+used, under international treaties or agreements between states, by general government
+agencies of the country (such as embassies,
+consulates, military bases, scientific bases, etc.);
+(e) deposits of oil, natural gas, etc. in international
+waters outside the continental shelf of the
+country, worked by units resident in the territory as defined in points (a) to (d).
+Fishing boats, other ships, floating platforms and
+aircraft are treated in the ESA as mobile equipment,
+whether owned and/or operated by units resident
+in the country, or owned by non-residents and
+operated by resident units. Transactions involving the ownership (gross fixed capital formation)
+and use (renting, insurance, etc.) of mobile equipment are attributed to the economy of the country
+of which the owner and/or operator respectively
+are residents. In cases of financial leasing, a change
+of ownership is assumed.
+Economic territory may be an area larger or smaller
+than that defined above. An example of a larger
+area is a currency union such as the European
+Monetary Union; an example of a smaller area is a
+part of a country such as a region.
+2.06 Economic territory excludes extraterritorial
+enclaves.
+Also excluded are the parts of the country’s
+own geographic territory used by the following
+organisations:
+(a) general government agencies of other countries;
+(b) institutions and bodies of the European Union;
+and
+(c) international organisations under international
+treaties between states.
+The territories used by the institutions and bodies
+of the European Union and international organisations are separate economic territories. A feature
+of such territories is that the only residents are the
+institutions.
+2.07 Centre of predominant economic interest indicates that a location exists within the economic territory of a country where a unit engages in economic activities and transactions on a significant
+scale, either indefinitely or over a finite but long
+period of time (a year or more). The ownership of
+land and buildings within the economic territory is
+deemed to be sufficient for the owner to have a centre of predominant economic interest there.
+Enterprises are almost always connected to only a
+single economy. Taxation and other legal requirements tend to result in the use of a separate legal
+entity for operations in each legal jurisdiction. In
+addition, a separate institutional unit is identified
+for statistical purposes where a single legal entity
+has substantial operations in two or more territories (e.g. for branches, land ownership, and multiterritory enterprises). As a result of splitting such
+legal entities, the residence of each of the subsequently identified enterprises is clear. Centre of
+predominant economic interest does not mean
+that entities with substantial operations in two or
+more territories should not be split.
+In the absence of any physical dimension to an
+enterprise, its residence is determined according to
+the economic territory under whose laws the enterprise is incorporated or registered.
+2.08 Units deemed to be residents of a country can be
+subdivided into:
+(a) units that are engaged in production, finance,
+insurance or redistribution, in respect of all
+their transactions except those relating to ownership of land and buildings;
+(b) units which are principally engaged in consumption, in respect of all their transactions
+except those relating to ownership of land and
+buildings;
+Units and groupings of units
+ European system of accounts — ESA 2010 27
+2
+(c) all units in their capacity as owners of land and
+buildings with the exception of owners of extraterritorial enclaves which are part of the economic territory of other countries or are independent states.
+2.09 For units other than households, in respect of all
+their transactions except those relating to ownership of land and buildings, the following two cases
+may be distinguished:
+(a) activity is conducted exclusively on the economic territory of the country: units which
+carry out such activity are resident units of the
+country;
+(b) activity is conducted for a year or more on the
+economic territories of several countries: only
+that part of the unit that has a centre of predominant economic interest in the economic
+territory of the country is deemed to be a resident unit of that country.
+A resident institutional unit may be a notional resident unit, in respect of the activity conducted in the
+country for a year or more by a unit which is resident in another country. When the activity is carried on for less than a year, the activity remains part
+of the activities of the producer institutional unit
+and no separate institutional unit is recognised.
+When the activity is insignificant, even though lasting longer than a year, and for the installation of
+equipment abroad, no separate unit is recognised
+and the activities are recorded as that of the producing institutional unit.
+2.10 Households, except in their capacity as owners of
+land and buildings, are resident units of the economic territory where they have a centre of predominant economic interest. They are resident
+irrespective of periods spent abroad of less than
+one year. They shall include, in particular, the
+following:
+(a) border workers, defined as people who cross
+the frontier daily to work in a neighbouring
+country;
+(b) seasonal workers, defined as people who leave
+the country for several months according to
+season, but less than a year, to work in another
+country;
+(c) tourists, patients, students, visiting officials,
+businessmen, salesmen, artists and crew members who travel abroad;
+(d) locally recruited staff working in the extraterritorial enclaves of foreign governments;
+(e) the staff of the institutions of the European
+Union and of civilian or military international
+organisations which have their headquarters in
+extraterritorial enclaves;
+(f) the official, civilian or military representatives of the government of the country (including their households) established in territorial
+enclaves.
+Students are always treated as residents, irrespective of the length of their studies abroad.
+2.11 All units, in their capacity as owners of land and/or
+buildings forming part of the economic territory,
+are resident units or notional resident units of the
+country in which that land or those buildings in
+question are located.
+The institutional units
+2.12 Definition: an institutional unit is an economic
+entity characterised by decision-making autonomy
+in the exercise of its principal function. A resident
+unit is regarded as constituting an institutional
+unit in the economic territory where it has its centre of predominant economic interest if it has decision-making autonomy and either keeps a complete set of accounts, or is able to compile a complete set of accounts.
+To have autonomy of decision in respect of its
+principal function, an entity must be:
+(a) entitled to own goods and assets in its own
+right; it will be able to exchange the ownership
+of goods and assets in transactions with other
+institutional units;
+(b) able to take economic decisions and engage in
+economic activities for which it is responsible
+and accountable at law;
+(c) able to incur liabilities on its own behalf, to take
+on other obligations or further commitments
+and to enter into contracts; and
+2 Units and groupings of units
+28 European system of accounts — ESA 2010
+(d) able to draw up a complete set of accounts,
+comprised of accounting records covering all
+its transactions carried out during the accounting period, as well as a balance sheet of assets
+and liabilities.
+2.13 The following principles apply whenever an entity
+does not possess the characteristics of an institutional unit:
+(a) households are deemed to enjoy autonomy of
+decision in respect of their principal function
+and are, therefore, institutional units nonetheless, even though they do not keep a complete
+set of accounts;
+(b) entities which do not keep a complete set of
+accounts, and are not able to compile a complete set of accounts if required to do so, are not
+institutional units;
+(c) entities which, while keeping a complete set of
+accounts, have no autonomy of decision, are
+part of the units which control them;
+(d) entities do not need to publish accounts to be
+an institutional unit;
+(e) entities forming part of a group of units
+engaged in production and keeping a complete set of accounts are deemed to be institutional units even if they have partially surrendered their autonomy of decision to the central
+body (the head office) responsible for the general direction of the group; the head office itself
+is deemed to be an institutional unit distinct
+from the units which it controls;
+(f) quasi-corporations are entities which keep a
+complete set of accounts and have no legal
+status. They have an economic and financial
+behaviour that is different from that of their
+owners and similar to that of corporations.
+They are deemed to have autonomy of decision and are considered as distinct institutional
+units.
+Head offices and holding companies
+2.14 Head offices and holding companies are institutional units. The two types are:
+(a) A head office is a unit that exercises managerial
+control over its subsidiaries. Head offices are
+allocated to the dominant non-financial corporations sector of their subsidiaries, unless all or
+most of their subsidiaries are financial corporations, in which case they are treated as financial
+auxiliaries (S.126) in the financial corporations
+sector.
+Where there is a mixture of non-financial and
+financial subsidiaries, then the predominant
+share-by-value-added determines the sector
+classification.
+Head offices are described under international
+standard industrial classification of all economic activities revision (ISIC Rev. 4), Section
+M, class 7010 (NACE Rev. 2, M 70.10) as
+follows:
+This class includes the overseeing and managing of other units of the company or enterprise; undertaking strategic or organisational
+planning and decision-making role of the company or enterprise; exercising operational control and managing the day-to-day operation of
+their related units.
+(b) A holding company that holds the assets of subsidiary corporations but does not undertake
+any management activities is a captive financial
+institution (S.127) and classified as a financial
+corporation.
+Holding companies are described under ISIC
+Rev.4, Section K, class 6420 (NACE Rev. 2, K
+64.20) as follows:
+This class includes the activities of holding companies, i.e. units that hold the assets (owning
+controlling-levels of equity) of a group of subsidiary corporations and whose principal activity is owning the group. The holding companies
+in this class do not provide any other service to
+the businesses in which the equity is held, i.e.
+they do not administer or manage other units.
+Groups of corporations
+2.15 Large groups of corporations are created when a
+parent controls several subsidiaries, which may
+in turn control their own subsidiaries, and so on.
+Units and groupings of units
+ European system of accounts — ESA 2010 29
+2
+Each member of the group is treated as a separate
+institutional unit if it satisfies the definition of an
+institutional unit.
+2.16 An advantage of not treating groups of corporations as single institutional units is that groups are
+not always stable over time, nor easily identifiable in practice. It can be difficult to obtain data on
+groups whose activities are not closely integrated.
+Many groups are too large and heterogeneous to
+be treated as single units, and their size and composition can change over time as a result of mergers and takeovers.
+Special purpose entities
+2.17 A special purpose entity (SPE) or special purpose
+vehicle (SPV) is usually a limited company or a
+limited partnership, created to fulfil narrow, specific or temporary objectives and to isolate a financial risk, a specific taxation or a regulatory risk.
+2.18 There is no common definition of an SPE, but the
+following characteristics are typical:
+(a) they have no employees and no non-financial
+assets;
+(b) they have little physical presence beyond a
+‘brass plate’ or sign confirming their place of
+registration;
+(c) they are always related to another corporation,
+often as a subsidiary;
+(d) they are resident in a different territory from
+the territory of residence of the related corporations. In the absence of any physical presence
+an enterprise’s residence is determined according to the economic territory under whose laws
+the enterprise is incorporated or registered;
+(e) they are managed by employees of another corporation which may or may not be a related
+one. The SPE pays fees for services provided to
+it and in turn charges its parent or other related
+corporation a fee to cover those costs. This is
+the only production the SPE is involved in,
+although it will often incur liabilities on behalf
+of its owner and will usually receive investment
+income and holding gains on the assets it holds.
+2.19 Whether a unit has all or none of these characteristics, and whether it is described as an SPE or some
+similar designation or not, it shall be treated in the
+same way as any other institutional unit by being
+allocated to sector and industry according to its
+principal activity unless the SPE has no independent rights of action.
+2.20 So captive financial institutions, artificial subsidiaries and special purpose units of general government with no independence of action are allocated
+to the sector of their controlling body. The exception occurs when they are non-resident, in which
+case they are recognised separately from their controlling body. But in the case of government, the
+activities of the subsidiary shall be reflected in the
+government accounts.
+Captive financial institutions
+2.21 A holding company that simply owns the assets of
+subsidiaries is one example of a captive financial
+institution. Examples of other units that are also
+treated as captive financial institutions are units
+with the characteristics of SPEs as described above,
+including investment and pension funds and units
+used for holding and managing wealth for individuals or families, issuing debt securities on behalf
+of related companies (such a company may be
+called a conduit), and carrying out other financial
+functions.
+2.22 The degree of independence from its parent may
+be demonstrated by exercising some substantive
+control over its assets and liabilities to the extent
+of carrying the risks and reaping the rewards associated with the assets and liabilities. Such units are
+classified in the financial corporations sector.
+2.23 An entity of this type that cannot act independently of its parent and is simply a passive holder of
+assets and liabilities (sometimes described as being
+on autopilot) is not treated as a separate institutional unit unless it is resident in an economy different from that of its parent. If it is resident in the
+same economy as its parent, it is treated as an ‘artificial subsidiary’ as described below.
+2 Units and groupings of units
+30 European system of accounts — ESA 2010
+Artificial subsidiaries
+2.24 A subsidiary, wholly owned by a parent corporation, may be created to provide services to the parent corporation, or other corporations in the same
+group, in order to avoid taxes, to minimise liabilities in the event of bankruptcy, or to secure other
+technical advantages under the tax or corporation
+legislation in force in a particular country.
+2.25 In general, such types of entities do not satisfy the
+definition of an institutional unit because they lack
+the ability to act independently from their parent corporation and may be subject to restrictions
+on their ability to hold or transact assets held on
+their balance sheets. Their level of output and the
+price they receive for it are determined by the parent that (possibly with other corporations in the
+same group) is their sole client. They are, thus,
+not treated as separate institutional units, but are
+treated as an integral part of the parent, and their
+accounts are consolidated with those of the parent,
+unless they are resident in an economic territory
+different from that where the parent is resident.
+2.26 A distinction must be made between artificial subsidiaries as just described and a unit undertaking
+only ancillary activities. Ancillary activities are limited in scope to the type of service functions that
+virtually all enterprises need to some extent or
+another such as cleaning premises, running the
+staff payroll or providing the information technology infrastructure for the enterprise (see Chapter 1,
+paragraph 1.31).
+Special purpose units of general
+government
+2.27 General government may also set up special purpose units, with characteristics and functions similar to the captive financial institutions and artificial
+subsidiaries. Such units do not have the power to
+act independently and are restricted in the range of
+transactions they can engage in. They do not carry
+the risks and rewards associated with the assets and
+liabilities they hold. Such units, if they are resident,
+shall be treated as an integral part of general government and not as separate units. If they are nonresident, they shall be treated as separate units.
+Any transactions carried out by them abroad shall
+be reflected in corresponding transactions with
+government. Thus, a unit that borrows abroad is
+then regarded as lending the same amount to general government, and on the same terms, as the
+original borrowing.
+2.28 In summary, the accounts of SPEs with no independent rights of action are consolidated with the
+parent corporation, unless they are resident in a
+different economy from that of the parent. There is
+one exception to this general rule, and that is when
+a non-resident SPE is set up by government.
+2.29 Notional resident units shall be defined as:
+(a) those parts of non-resident units which have
+a centre of predominant economic interest
+(being, in most cases, units which engage in
+economic production for a year or more) on
+the economic territory of the country;
+(b) non-resident units in their capacity as owners
+of land and/or buildings on the economic territory of the country, but only in respect of transactions affecting such land or buildings.
+Notional resident units, irrespective of only keeping partial accounts and irrespective of autonomy
+of decision, shall be treated as institutional units.
+2.30 The following shall be considered as institutional
+units:
+(a) units that have autonomy of decision and a
+complete set of accounts such as:
+(1) private and public corporations;
+(2) cooperatives or partnerships recognised as independent legal entities;
+(3) public producers which by virtue of special legislation are recognised as independent legal entities;
+(4) non-profit institutions recognised as independent
+legal entities; and
+(5) agencies of general government;
+(b) units which have a complete set of accounts
+and which are deemed to have autonomy of
+decision despite not having separate incorporation from their parent: quasi-corporations;
+(c) units which do not necessarily keep a complete
+set of accounts, but which are deemed to have
+autonomy of decision, namely:
+(1) households;
+(2) notional resident units.
+Units and groupings of units
+ European system of accounts — ESA 2010 31
+2
+The institutional sectors
+2.31 Macroeconomic analysis does not consider the
+actions of each institutional unit separately — it
+considers the aggregate activities of similar institutions. So units are combined into groups called
+institutional sectors, some of which are divided
+into subsectors.
+2.32 Each sector and subsector groups together the
+institutional units which have a similar type of economic behaviour.
+Table 2.1 — Sectors and subsectors
+Sectors and subsectors Public National
+private
+Foreign
+controlled
+Non-financial corporations S.11 S.11001 S.11002 S.11003
+Financial corporations S.12
+Monetary
+financial
+institutions (MFIs)
+Central bank S.121
+Other monetary
+financial
+institutions
+(OMFI)
+Deposit-taking corporations
+except the central bank S.122 S.12201 S.12202 S.12203
+Money market funds (MMFs) S.123 S.12301 S.12302 S.12303
+Financial
+corporations
+except MFIs
+and Insurance
+corporations and
+pension funds
+(ICPFs)
+Non-MMF investment funds S.124 S.12401 S.12402 S.12403
+Other financial intermediaries, except insurance
+corporations and pension funds S.125 S.12501 S.12502 S.12503
+Financial auxiliaries S.126 S.12601 S.12602 S.12603
+Captive financial institutions and money lenders S.127 S.12701 S.12702 S.12703
+ICPFs Insurance corporations (IC) S.128 S.12801 S.12802 S.12803
+Pension funds (PF) S.129 S.12901 S.12902 S.12903
+General government S.13
+Central government (excluding social security funds) S.1311
+State government (excluding social security funds) S.1312
+Local government (excluding social security funds) S.1313
+Social security funds S.1314
+Households S.14
+Employers and own-account workers S.141+S.142
+Employees S.143
+Recipients of property and transfer income S.144
+Recipients of property income S.1441
+Recipients of pensions S.1442
+Recipients of other transfers S.1443
+Non-profit institutions serving households S.15
+Rest of the world S.2
+Member States and institutions and bodies of the European Union S.21
+Member States of the European Union S.211
+Institutions and bodies of the European Union S.212
+Non-member countries and international organisations nonresident in the European Union S.22
+2 Units and groupings of units
+32 European system of accounts — ESA 2010
+Diagram 2.1 — Allocation of units to sectors
+Is the unit resident?
+Is the unit a household?
+Is the unit a non-market producer?
+Is the unit controlled by
+government?
+NPISH Non-financial
+corporations
+Public nonfinancial
+corporations
+Private nonfinancial
+corporations
+Private
+financial
+corporations
+Public
+financial
+corporations
+Is the unit controlled by
+general government?
+General
+government
+Financial corporations
+RoW
+Households
+Is the unit controlled by
+general government?
+Does the unit produce financial services?
+No
+No
+No
+No
+No No
+No
+Yes
+Yes
+Yes Yes
+Yes Yes
+Yes
+Units and groupings of units
+ European system of accounts — ESA 2010 33
+2
+2.33 The institutional units are grouped into sectors
+on the basis of the type of producer they are and
+depending on their principal activity and function,
+which are considered to be indicative of their economic behaviour.
+2.34 Diagram 2.1 shows how units are allocated to the
+main sectors. In order to determine the sector of a
+unit which is resident and not a household, according to the diagram, it is necessary to determine
+whether it is controlled by general government or
+not, and whether it is a market or a non-market
+producer.
+2.35 Control over a financial or non-financial corporation shall be defined as the ability to determine
+general corporate policy, for example by choosing
+appropriate directors if necessary.
+2.36 A single institutional unit (another corporation,
+a household, a non-profit institution or a government unit) secures control over a corporation or
+quasi-corporation by owning more than half the
+voting shares or otherwise controlling more than
+half the shareholders’ voting power.
+2.37 In order to control more than half the shareholders’
+voting power, an institutional unit need not own
+any of the voting shares itself. A given corporation,
+corporation C, could be a subsidiary of another
+corporation B in which a third corporation A owns
+a majority of the voting shares. Corporation C is
+said to be subsidiary of corporation B when either
+corporation B controls more than half of the shareholders’ voting power in corporation C or corporation B is a shareholder in C with the right to
+appoint or remove a majority of the directors of C.
+2.38 General government secures control over a corporation as a result of special legislation, decree or regulation which empowers the government to determine corporate policy. The following indicators are
+the main factors to consider in deciding whether a
+corporation is controlled by government:
+(a) government ownership of the majority of the
+voting interest;
+(b) government control of the board or governing
+body;
+(c) government control of the appointment and
+removal of key personnel;
+(d) government control of key committees in the
+entity;
+(e) government possession of a golden share;
+(f) special regulations;
+(g) government as a dominant customer;
+(h) borrowing from government.
+A single indicator may be sufficient to establish
+control, but, in other cases, a number of separate
+indicators may collectively indicate control.
+2.39 For non-profit institutions recognised as independent legal entities, the five indicators of control
+to be considered are:
+(a) the appointment of officers;
+(b) the provisions of enabling instruments;
+(c) contractual agreements;
+(d) the degree of financing;
+(e) the degree of government risk exposure.
+As with corporations, a single indicator may be
+sufficient to establish control in some cases, but, in
+other cases, a number of separate indicators may
+collectively indicate control.
+2.40 Differentiating between market and non-market, and so for public sector entities classification
+between the general government sector and the
+corporations sector, depends on the criteria set out
+in paragraph 1.37.
+2.41 A sector shall be divided into subsectors according
+to the criteria relevant to that sector; for example
+government can be split into central, state and local
+government and social security funds. This permits
+a more precise description of the economic behaviour of the units.
+The accounts for sectors and subsectors record all
+the activities, whether principal or secondary, of
+the institutional units covered by the appropriate
+sector.
+Each institutional unit belongs to only one sector
+or subsector.
+2 Units and groupings of units
+34 European system of accounts — ESA 2010
+2.42 When the principal function of the institutional
+unit is to produce goods and services, the type of
+producer must be decided first, in order to allocate
+it to a sector.
+2.43 Table 2.2 shows the type of producer and the principal activities and functions that are characteristic
+of each sector:
+Table 2.2 — Type of producer and principal activities and functions classified by sector
+Type of producer Principal activity and function Sector
+Market producer Production of market goods and non-financial services Non-financial corporations
+(S.11)
+Market producer Financial intermediation including insurance
+Auxiliary financial activities Financial corporations (S.12)
+Public non-market producer
+Production and supply of non-market output for collective and
+individual consumption, and carrying out transactions intended to
+redistribute national income and wealth
+General government (S.13)
+Market producer or private
+producer for own final use
+Consumption
+Production of market output and output for own final use
+Households (S.14)
+As consumers
+As entrepreneurs
+Private non-market producer Production and supply of non-market output for individual
+consumption
+Non-profit institutions
+serving households (S.15)
+2.44 The rest of the world (S.2) sector refers to flows and
+positions between resident units and non-resident
+units — the non-resident units are not characterised by similar objectives and types of behaviour,
+but are only recognised through their flows and
+positions with resident units.
+Non-financial corporations (S.11)
+2.45 Definition: the non-financial corporations sector (S.11) consists of institutional units which are
+independent legal entities and market producers,
+and whose principal activity is the production of
+goods and non-financial services. The non-financial corporations sector also includes non-financial
+quasi-corporations (see paragraph 2.13(f)).
+2.46 The institutional units covered are the following:
+(a) private and public corporations which are market producers principally engaged in the production of goods and non-financial services;
+(b) cooperatives and partnerships recognised as
+independent legal entities which are market
+producers principally engaged in the production of goods and non-financial services;
+(c) public producers which are recognised as independent legal entities and which are market
+producers principally engaged in the production of goods and non-financial services;
+(d) non-profit institutions or associations serving
+non-financial corporations, which are recognised as independent legal entities and which
+are market producers principally engaged in
+the production of goods and non-financial
+services;
+(e) head offices controlling a group of corporations
+which are market producers, where the preponderant type of activity of the group of corporations as a whole - measured on the basis of
+value added — is the production of goods and
+non-financial services;
+(f) SPEs whose principal activity is the provision of
+goods or non-financial services;
+(g) private and public quasi-corporations which
+are market producers principally engaged in
+the production of goods and non-financial
+services.
+2.47 Non-financial quasi-corporations are all entities
+which are market producers principally engaged in
+the production of goods and non-financial services
+and which meet the conditions qualifying them
+as quasi-corporations (see point (f) of paragraph
+2.13).
+Units and groupings of units
+ European system of accounts — ESA 2010 35
+2
+Non-financial quasi-corporations must keep
+enough information to enable a complete set of
+accounts to be drawn up, and are operated as if
+they were corporations. The de facto relationship to their owner is that of a corporation to its
+shareholders.
+Non-financial quasi-corporations owned by households, government units or non-profit institutions
+are grouped with non-financial corporations in the
+non-financial corporations sector, and not in the
+sector of their owner.
+2.48 The existence of a complete set of accounts, including balance sheets, is not a sufficient condition for
+market producers to be treated as institutional
+units such as quasi-corporations. Partnerships and
+public producers, other than those included under
+points (a), (b), (c) and (f) of paragraph 2.46 and sole
+proprietorships — even if they keep a complete set
+of accounts — are in general not distinct institutional units because they do not enjoy autonomy of
+decision, their management being under the control of the households, non-profit institutions or
+governments which own them.
+2.49 Non-financial corporations include notional resident units which are treated as quasi-corporations.
+2.50 The non-financial corporations sector is divided
+into three subsectors:
+(a) public non-financial corporations (S.11001);
+(b) national private non-financial corporations
+(S.11002);
+(c) foreign controlled non-financial corporations
+(S.11003).
+Public non-financial corporations (S.11001)
+2.51 Definition: the public non-financial corporations
+subsector consists of all non-financial corporations, quasi-corporations and non-profit institutions, recognised as independent legal entities, that
+are market producers and are subject to control by
+government units.
+2.52 Public quasi-corporations are quasi-corporations
+owned directly by government units.
+National private non-financial corporations
+(S.11002)
+2.53 Definition: the national private non-financial corporations subsector consists of all non-financial
+corporations, quasi-corporations and non-profit
+institutions which are recognised as independent
+legal entities and which are market producers, that
+are not controlled by government or by non-resident institutional units.
+This subsector includes corporate and quasi-corporate direct foreign investment units not classified in the foreign controlled non-financial corporations subsector (S.11003).
+Foreign controlled non-financial corporations
+(S.11003)
+2.54 Definition: the foreign controlled non-financial
+corporations subsector consists of all non-financial
+corporations and quasi-corporations that are controlled by non-resident institutional units.
+This subsector includes:
+(a) all subsidiaries of non-resident corporations;
+(b) all corporations controlled by a non-resident
+institutional unit that is not itself a corporation;
+for example, a corporation which is controlled
+by a foreign government. It includes corporations controlled by a group of non-resident
+units acting in concert;
+(c) all branches or other unincorporated agencies of non-resident corporations or unincorporated producers which are notional resident
+units.
+Financial corporations (S.12)
+2.55 Definition: the financial corporations sector (S.12)
+consists of institutional units which are independent legal entities and market producers, and whose
+principal activity is the production of financial services. Such institutional units comprise all corporations and quasi-corporations which are principally engaged in:
+(a) financial intermediation (financial intermediaries); and/or
+2 Units and groupings of units
+36 European system of accounts — ESA 2010
+(b) auxiliary financial activities (financial
+auxiliaries).
+Also included are institutional units providing financial services, where most of either their
+assets or their liabilities are not transacted on open
+markets.
+2.56 Financial intermediation is the activity in which
+an institutional unit acquires financial assets and
+incurs liabilities on its own account by engaging
+in financial transactions on the market. The assets
+and liabilities of financial intermediaries are transformed or repackaged in relation to, for example,
+maturity, scale, risk, etc. in the financial intermediation process.
+Auxiliary financial activities are activities related to
+financial intermediation but which do not involve
+financial intermediation themselves.
+Financial intermediaries
+2.57 The financial intermediation process channels
+funds between third parties with a surplus and
+those with a lack of funds. A financial intermediary
+does not only act as an agent for other institutional
+units, but places itself at risk by acquiring financial
+assets and incurring liabilities on its own account.
+2.58 In the financial intermediation process, all categories of liabilities may be involved with the exception of the liability category of other accounts payable (AF.8). The financial assets involved in the
+financial intermediation process may be classified
+in any category with the exception of the category
+of insurance, pension and standardised guarantee
+schemes (AF.6) but including the other accounts
+receivable category. Financial intermediaries may
+invest their funds in non-financial assets including real estate. In order to be considered a financial
+intermediary, a corporation should incur liabilities on the market and transform funds. Real estate
+corporations are not financial intermediaries.
+2.59 The function of insurance corporations and pension funds consists of the pooling of risks. The liabilities of such institutions are insurance, pension
+and standardised guarantee schemes (AF.6). The
+counterparts of liabilities are investments by the
+insurance corporations and pension funds, acting
+as financial intermediaries.
+2.60 Investment funds, hereinafter referred to as money
+market funds (MMFs) and non-money market funds (non-MMFs), primarily incur liabilities through the issue of investment fund shares
+or units (AF.52). They transform such funds
+by acquiring financial assets and/or real estate.
+Investment funds are classified as financial intermediaries. Any change in the value of their assets
+and liabilities other than their own shares is
+reflected in their own funds (see paragraph 7.07).
+Given that the amount of own funds equals the
+value of the investment fund’s shares or units, any
+change in the value of the fund’s assets and liabilities will be reflected in the market value of such
+shares or units. Investment funds investing in real
+estate are financial intermediaries.
+2.61 Financial intermediation is limited to acquiring
+assets and incurring liabilities with the general
+public or specified and relatively large sub-groups
+thereof. Where the activity is limited to small
+groups of persons or families, no financial intermediation takes place.
+2.62 Exceptions to the general limitation of financial
+intermediation to financial transactions on the
+market may exist. Examples are municipal credit
+and savings banks which rely on the municipality involved, or financial lease corporations
+that depend on a parent group of companies for
+acquiring funds or investing funds. Their lending or their acceptance of savings shall be independent of the municipality involved or the parent
+group, respectively, in classifying them as financial
+intermediaries.
+Financial auxiliaries
+2.63 Auxiliary financial activities comprise auxiliary activities for realising transactions in financial assets and liabilities or the transformation
+or repackaging of funds. Financial auxiliaries do
+not put themselves at risk by acquiring financial
+assets or incurring liabilities. They facilitate financial intermediation. Head offices, all or most of the
+subsidiaries of which are financial corporations,
+are financial auxiliaries.
+Units and groupings of units
+ European system of accounts — ESA 2010 37
+2
+Financial corporations other than financial
+intermediaries and financial auxiliaries
+2.64 Other financial corporations other than financial
+intermediaries and financial auxiliaries are institutional units providing financial services, where
+most of either their assets or their liabilities are not
+transacted on open markets.
+Institutional units included in the financial
+corporations sector
+2.65 The institutional units included in the financial
+corporations sector (S.12) are the following:
+(a) private or public corporations which are principally engaged in financial intermediation
+and/or in auxiliary financial activities;
+(b) cooperatives and partnerships recognised as
+independent legal entities which are principally
+engaged in financial intermediation and/or in
+auxiliary financial activities;
+(c) public producers recognised as legal entities, which are principally engaged in financial intermediation and/or in auxiliary financial activities;
+(d) non-profit institutions recognised as legal entities which are principally engaged in financial intermediation and/or in auxiliary financial activities, or which are serving financial
+corporations;
+(e) head offices when all or most of their subsidiaries are, as financial corporations, principally
+engaged in financial intermediation and/or
+financial auxiliary activities. These head offices
+are classified as financial auxiliaries (S.126);
+(f) holding companies, where the main role is the
+holding of assets of a group of subsidiary corporations. The make-up of the group can be
+financial or non-financial — this does not affect
+the classification of holding companies as captive financial institutions (S.127);
+(g) SPEs whose principal activity is the provision of
+financial services;
+(h) unincorporated investment funds comprising investment portfolios owned by the group
+of participants, and whose management is
+undertaken, in general, by other financial
+corporations. Such funds are institutional
+units, separate from the managing financial
+corporation;
+(i) unincorporated units principally engaged in
+financial intermediation and subject to regulation and supervision (in most cases classified as
+deposit-taking corporations except the central
+bank, insurance corporations or pension funds)
+are deemed to enjoy autonomy of decision and
+to have autonomous management independent of their owners; their economic and financial behaviour is similar to that of financial corporations. In this case they are treated as separate institutional units. Examples are branches
+of non-resident financial corporations.
+Subsectors of financial corporations
+2.66 The financial corporations sector is subdivided into
+the following subsectors:
+(a) central bank (S.121);
+(b) deposit-taking corporations except the central
+bank (S.122);
+(c) money market funds (MMFs) (S.123);
+(d) non-MMF investment funds (S.124);
+(e) other financial intermediaries, except insurance corporations and pension funds (S.125);
+(f) financial auxiliaries (S.126);
+(g) captive financial institutions and money lenders (S.127);
+(h) insurance corporations (S.128); and
+(i) pension funds (S.129).
+Combining subsectors of financial corporations
+2.67 Monetary financial institutions (MFIs) as defined
+by the ECB consist of all institutional units included
+in the central bank (S.121), deposit-taking corporations except the central bank (S.122) and MMF
+(S.123) subsectors.
+2.68 Other monetary financial institutions consist of
+those financial intermediaries through which the
+2 Units and groupings of units
+38 European system of accounts — ESA 2010
+effects of the monetary policy of the central bank
+(S.121) are transmitted to the other entities of the
+economy. They are deposit-taking corporations
+except the central bank (S.122) and MMF (S.123).
+2.69 Financial intermediaries dealing with the pooling of risks are insurance corporations and pensions funds (ICPF). They consist of the insurance
+corporations (S.128) and pension funds (S.129)
+subsectors.
+2.70 Financial corporations except MFI and ICPF consist of the non-MMF investment funds (S.124),
+other financial intermediaries, except insurance
+corporations and pension funds (S.125), financial
+auxiliaries (S.126) and captive financial institutions
+and money lenders (S.127) subsectors.
+Subdividing subsectors of financial corporations
+into public, national private and foreign controlled
+financial corporations
+2.71 With the exception of subsector S.121, each subsector is further subdivided into:
+(a) public financial corporations;
+(b) national private financial corporations; and
+(c) foreign controlled financial corporations.
+The criteria for this subdivision are the same as for
+non-financial corporations (see paragraphs 2.51 to
+2.54).
+Table 2.3 — Financial corporations sector and its subsectors
+Sectors and subsectors Public National
+private
+Foreign
+controlled
+Financial corporations S.12
+Monetary financial
+institutions (MFI)
+Central bank S.121
+Other monetary financial
+institutions (OMFI)
+Deposit-taking
+corporations except the
+central bank
+S.122 S.12201 S.12202 S.12203
+MMF S.123 S.12301 S.12302 S.12303
+Financial corporations
+except MFI and ICPF
+Non-MMF investment funds S.124 S.12401 S.12402 S.12403
+Other financial intermediaries, except insurance
+corporations and pension funds S.125 S.12501 S.12502 S.12503
+Financial auxiliaries S.126 S.12601 S.12602 S.12603
+Captive financial institutions and money lenders S.127 S.12701 S.12702 S.12703
+Insurance corporations
+and pension funds (ICPFs)
+Insurance corporations (IC) S.128 S.12801 S.12802 S.12803
+Pension funds (PF) S.129 S.12901 S.12902 S.12903
+Central bank (S.121)
+2.72 Definition: the central bank subsector (S.121) consists of all financial corporations and quasi-corporations whose principal function is to issue currency, to maintain the internal and external value
+of the currency and to hold all or part of the international reserves of the country.
+2.73 The following financial intermediaries are classified in subsector S.121:
+(a) the national central bank, including when it is
+part of a European system of central banks;
+(b) central monetary agencies of essentially public origin (e.g. agencies managing foreign
+exchange or issuing currency) which keep a
+complete set of accounts and enjoy autonomy
+of decision in relation to central government.
+When these activities are performed either
+within central government or within the central bank, no separate institutional units exist.
+2.74 Subsector S.121 does not include agencies and bodies, other than the central bank, which regulate or
+supervise financial corporations or financial markets. They are classified in subsector S.126.
+Units and groupings of units
+ European system of accounts — ESA 2010 39
+2
+Deposit-taking corporations except the central bank
+(S.122)
+2.75 Definition: the deposit-taking corporations except
+the central bank subsector (S.122) includes all
+financial corporations and quasi-corporations,
+except those classified in the central bank and in the
+MMF subsectors, which are principally engaged in
+financial intermediation and whose business is to
+receive deposits and/or close substitutes for deposits
+from institutional units, hence not only from MFIs,
+and, for their own account, to grant loans and/or to
+make investments in securities.
+2.76 Deposit-taking corporations except the central bank cannot be described simply as ‘banks’,
+because they may include some financial corporations which do not call themselves banks, or some
+financial corporations which are not permitted to
+do so in some countries, while some other financial corporations describing themselves as banks
+may not in fact be deposit-taking corporations. The
+following financial intermediaries are classified in
+sub-sector S.122:
+(a) commercial banks, ‘universal’ banks, ‘all-purpose’ banks;
+(b) savings banks (including trustee savings banks
+and savings banks and loan associations);
+(c) post office giro institutions, post banks, giro
+banks;
+(d) rural credit banks, agricultural credit banks;
+(e) cooperative credit banks, credit unions;
+(f) specialised banks (e.g. merchant banks, issuing
+houses, private banks); and
+(g) electronic money institutions principally
+engaged in financial intermediation.
+2.77 The following financial intermediaries are classified in subsector S.122 where it is their business to
+receive repayable funds from the public, whether
+in the form of deposits or in other forms such as
+the continuing issue of long-term debt securities:
+(a) corporations engaged in granting mortgages
+(including building societies, mortgage banks
+and mortgage credit institutions);
+(b) municipal credit institutions.
+Otherwise, financial intermediaries are classified in
+subsector S.124.
+2.78 Subsector S.122 does not include:
+(a) head offices which oversee and manage other
+units of a group consisting predominantly of
+deposit-taking corporations except the central
+bank, but which are not deposit-taking corporations. Such head offices are classified in subsector S.126;
+(b) non-profit institutions recognised as independent legal entities serving deposit-taking corporations, but not engaged in financial intermediation. They are classified in subsector S.126;
+and
+(c) electronic money institutions not principally
+engaged in financial intermediation.
+MMF (S.123)
+2.79 Definition: the MMF subsector (S.123) consists of
+all financial corporations and quasi-corporations,
+except those classified in the central bank and in
+the credit institutions subsectors, which are principally engaged in financial intermediation. Their
+business is to issue investment fund shares or units
+as close substitutes for deposits from institutional
+units, and, for their own account, to make investments primarily in money market fund shares/
+units, short-term debt securities, and/or deposits.
+2.80 The following financial intermediaries are classified in subsector S.123: investment funds including investment trusts, unit trusts and other collective investment schemes whose shares or units are
+close substitutes for deposits.
+2.81 Subsector S.123 does not include:
+(a) head offices which oversee and manage a group
+consisting predominantly of MMFs, but which
+are not MMFs themselves. They are classified in
+subsector S.126;
+(b) non-profit institutions recognised as independent legal entities serving MMFs, but not
+engaged in financial intermediation. They are
+classified in subsector S.126.
+2 Units and groupings of units
+40 European system of accounts — ESA 2010
+Non-MMF investment funds (S.124)
+2.82 Definition: the non-MMF investment funds subsector (S.124) consists of all collective investment
+schemes, except those classified in the MMF subsector, which are principally engaged in financial
+intermediation. Their business is to issue investment fund shares or units which are not close substitutes for deposits, and, on their own account,
+to make investments primarily in financial assets
+other than short-term financial assets and in nonfinancial assets (usually real estate).
+2.83 Non-MMF investment funds cover investment
+trusts, unit trusts and other collective investment
+schemes whose investment fund shares or units are
+not seen as close substitutes for deposits.
+2.84 The following financial intermediaries are classified in subsector S.124:
+(a) open-ended investment funds whose investment fund shares or units are, at the request of
+the holders, repurchased or redeemed directly
+or indirectly out of the undertaking’s assets;
+(b) closed-ended investment funds with a fixed
+share capital, where investors entering or leaving the fund must buy or sell existing shares;
+(c) real estate investment funds;
+(d) investment funds investing in other funds
+(‘funds of funds’);
+(e) hedge funds covering a range of collective
+investment schemes, involving high minimum
+investments, light regulation, and a range of
+investment strategies.
+2.85 Subsector S.124 does not include:
+(a) pension funds which are part of the pension
+funds subsector;
+(b) special purpose government funds, called sovereign wealth funds. A special purpose government fund is classified as captive financial
+institution if it is a financial corporation. The
+classification of a ‘special purpose government
+fund’ either as part of general government sector or as part of the financial corporation sector shall be determined according to the criteria
+concerning special purpose units of general
+government set out in paragraph 2.27;
+(c) head offices which oversee and manage a group
+consisting predominantly of non-MMF investment funds, but which are not investment
+funds themselves. They are classified in subsector S.126;
+(d) non-profit institutions recognised as independent legal entities serving non-MMF investment
+funds, but not engaged in financial intermediation. They are classified in subsector S.126.
+Other financial intermediaries, except insurance
+corporations and pension funds (S.125)
+2.86 Definition: the other financial intermediaries,
+except insurance corporations and pension funds
+subsector (S.125) consists of all financial corporations and quasi-corporations which are principally
+engaged in financial intermediation by incurring
+liabilities in forms other than currency, deposits,
+or investment fund shares, or in relation to insurance, pension and standardised guarantee schemes
+from institutional units.
+2.87 Subsector S.125 includes financial intermediaries predominantly engaged in long-term financing. In most cases, this predominant maturity distinguishes that subsector from the OMFI subsectors (S.122 and S.123). Based on the non-existence
+of liabilities in the form of investment fund shares
+which are not seen as close substitutes for deposits or insurance, pension and standardised guarantee schemes, the borderline with the non-MMF
+investment funds (S.124), the insurance corporations (S.128), and the pension funds (S.129) subsectors can be determined.
+2.88 The other financial intermediaries, except insurance corporations and pension funds subsector
+(S.125) is further subdivided into subsectors consisting of financial vehicle corporations engaged
+in securitisation transactions (FVC), security and
+derivative dealers, financial corporations engaged
+in lending, and specialised financial corporations.
+This is shown in Table 2.4.
+Units and groupings of units
+ European system of accounts — ESA 2010 41
+2
+Table 2.4 —Other financial intermediaries, except
+insurance corporations and pension funds
+subsector (S.125) and its subdivisions
+Other financial intermediaries, except insurance
+corporations and pension funds
+Financial vehicle corporations engaged in securitisation
+transactions (FVC);
+Security and derivative dealers;
+Financial corporations engaged in lending; and
+Specialised financial corporations
+2.89 Subsector S.125 does not include non-profit institutions recognised as independent legal entities
+serving other financial intermediaries, but not
+engaged in financial intermediation. They are classified in subsector S.126.
+Financial vehicle corporations engaged in
+securitisation transactions (FVC)
+2.90 Definition: financial vehicle corporations engaged
+in securitisation transactions (FVC) are undertakings carrying out securitisation transactions. FVC
+that satisfy the criteria of an institutional unit are
+classified in S.125, otherwise they are treated as an
+integral part of the parent.
+Security and derivative dealers, financial
+corporations engaged in lending and specialised
+financial corporations
+2.91 Security and derivative dealers (on own account)
+are financial intermediaries on own account.
+2.92 Financial corporations engaged in lending include
+for example financial intermediaries engaged in:
+(a) financial leasing;
+(b) hire purchase and the provision of personal or
+commercial finance; or
+(c) factoring.
+2.93 Specialised financial corporations are financial
+intermediaries, for example:
+(a) venture and development capital companies;
+(b) export/import financing companies; or
+(c) financial intermediaries which acquire deposits
+and/or close substitutes for deposits, or incur
+loans vis-à-vis monetary financial institutions
+only; these financial intermediaries cover also
+central counterparty clearing houses (CCPs)
+carrying out inter-MFI repurchase agreement
+transactions.
+2.94 Head offices which oversee and manage a group of
+subsidiaries principally engaged in financial intermediation and/or in auxiliary financial activities
+are classified in subsector S.126.
+Financial auxiliaries (S.126)
+2.95 Definition: the financial auxiliaries subsector
+(S.126) consists of all financial corporations and
+quasi-corporations which are principally engaged
+in activities closely related to financial intermediation but which are not financial intermediaries
+themselves.
+2.96 The following financial corporations and quasicorporations are classified in subsector S.126:
+(a) insurance brokers, salvage and average administrators, insurance and pension consultants,
+etc.;
+(b) loan brokers, securities brokers, investment
+advisers, etc.;
+(c) flotation corporations that manage the issue of
+securities;
+(d) corporations whose principal function is to
+guarantee, by endorsement, bills and similar
+instruments;
+(e) corporations which arrange derivative and
+hedging instruments, such as swaps, options
+and futures (without issuing them);
+(f) corporations providing infrastructure for
+financial markets;
+(g) central supervisory authorities of financial
+intermediaries and financial markets when they
+are separate institutional units;
+(h) managers of pension funds, mutual funds, etc.;
+(i) corporations providing stock exchange and
+insurance exchange;
+2 Units and groupings of units
+42 European system of accounts — ESA 2010
+(j) non-profit institutions recognised as independent legal entities serving financial corporations,
+but not engaged in financial intermediation
+(see point (d) of paragraph 2.46);
+(k) payment institutions (facilitating payments
+between buyer and seller).
+2.97 Subsector S.126 also includes head offices whose
+subsidiaries are all or mostly financial corporations.
+Captive financial institutions and money lenders
+(S.127)
+2.98 Definition: the captive financial institutions and
+money lenders subsector (S.127) consists of all
+financial corporations and quasi-corporations
+which are neither engaged in financial intermediation nor in providing financial auxiliary services,
+and where most of either their assets or their liabilities are not transacted on open markets.
+2.99 In particular, the following financial corporations
+and quasi-corporations are classified in subsector
+S.127:
+(a) units as legal entities such as trusts, estates,
+agencies accounts or ‘brass plate’ companies;
+(b) holding companies that hold controlling-levels of equity of a group of subsidiary corporations and whose principal activity is owning
+the group without providing any other service
+to the businesses in which the equity is held,
+that is, they do not administer or manage other
+units;
+(c) SPEs that qualify as institutional units and raise
+funds in open markets to be used by their parent corporation;
+(d) units which provide financial services exclusively with own funds, or funds provided by a
+sponsor, to a range of clients and incur the financial risk of the debtor defaulting. Examples are
+money lenders, corporations engaged in lending to students or for foreign trade from funds
+received from a sponsor such as a government
+unit or a non-profit institution, and pawnshops
+that predominantly engage in lending;
+(e) special purpose government funds, usually
+called sovereign wealth funds, if classified as
+financial corporations.
+Insurance corporations (S.128)
+2.100 Definition: the insurance corporations subsector
+(S.128) consists of all financial corporations and
+quasi-corporations which are principally engaged
+in financial intermediation as a consequence of the
+pooling of risks mainly in the form of direct insurance or reinsurance (see paragraph 2.59).
+2.101 Insurance corporations provide services of:
+(a) life and non-life insurance to individual units
+or groups of units;
+(b) reinsurance to other insurance corporations.
+2.102 Services of non-life insurance corporations may
+be provided in the form of insurance against the
+following:
+(a) fire (e.g. commercial and private property);
+(b) liability (casualty);
+(c) motor (own damage and third party liability);
+(d) marine, aviation and transport (including
+energy risks);
+(e) accident and health; or
+(f) financial insurance (provision of guarantees or
+surety bonds).
+Financial insurance or credit insurance corporations, also called guarantee banks, provide guarantees or surety bonds to back securitisation and
+other credit products.
+2.103 Insurance corporations are mainly incorporated
+or mutual entities. Incorporated entities are owned
+by shareholders and many are listed on stock
+exchanges. Mutuals are owned by their policyholders and return their profits to the ‘with profits’ or
+‘participating’ policyholders through dividends or
+bonuses. ‘Captive’ insurers are normally owned by
+a non-financial corporation and mostly insure the
+risks of their shareholders.
+Units and groupings of units
+ European system of accounts — ESA 2010 43
+2
+Box 2.1 — Types of insurance
+Type of insurance Sector/subsector
+Direct insurance
+Life insurance
+Policyholder makes regular or one-off payments to an insurer in return for which
+the insurer guarantees to provide the policyholder with an agreed sum, or an
+annuity, at a given date or earlier.
+Insurance corporations
+Non-life insurance
+Insurance to cover risks like accidents, sickness, fire, credit, etc. Insurance corporations
+Reinsurance Insurance bought by an insurer to protect himself against an unexpectedly large
+number of claims or exceptionally heavy claims. Insurance corporations
+Social insurance
+Social security
+The participants are obliged by general
+government to insure against certain social
+risks.
+Social security pensions
+Social security funds Other social security
+Employment related social insurance other
+than social security
+Employers can make it a condition of
+employment that employees insure against
+certain social risks.
+Employment related pensions Sector of employer, insurance
+corporations and pension
+funds or non-profit institutions
+serving households
+Other employment related social
+insurance
+2.104 Subsector S.128 does not include:
+(a) institutional units which fulfil each of the two
+criteria listed in paragraph 2.117. They are classified in sub-sector S.1314;
+(b) head offices which oversee and manage a group
+consisting predominantly of insurance corporations, but which are not insurance corporations themselves. They are classified in sub-sector S.126;
+(c) non-profit institutions recognised as independent legal entities serving insurance corporations, but not engaged in financial intermediation. They are classified in subsector S.126.
+Pension funds (S.129)
+2.105 Definition: the pension funds subsector (S.129)
+consists of all financial corporations and quasi-corporations which are principally engaged in financial intermediation as the consequence of the pooling of social risks and needs of the insured persons
+(social insurance). Pension funds as social insurance schemes provide income in retirement, and
+often benefits for death and disability.
+2.106 Subsector S.129 consists of only those social insurance pension funds that are institutional units separate from the units that create them. Such autonomous funds have autonomy of decision and keep
+a complete set of accounts. Non-autonomous pension funds are not institutional units and remain
+part of the institutional unit that sets them up.
+2.107 Examples of participants in pension fund schemes
+include employees of a single enterprise or a group
+of enterprises, employees of a branch or industry,
+and persons having the same profession. The benefits included in the insurance contract can be:
+(a) paid after the death of the insured to the
+widow(er) and children;
+(b) paid after retirement; or
+(c) paid after the insured becomes disabled.
+2.108 In some countries, all those types of risks can be
+insured by life insurance corporations as well as
+through pension funds. In other countries, it is
+required that some of those classes of risks are
+insured through life insurance corporations. In
+contrast to life insurance corporations, pension
+funds are restricted by law to specified groups of
+employees and self-employed.
+2.109 Pension fund schemes may be organised by
+employers or by general government. They may
+also be organised by insurance corporations on
+behalf of employees; or separate institutional units
+may be established to hold and manage the assets
+to be used to meet the pension entitlements and to
+distribute the pensions.
+2 Units and groupings of units
+44 European system of accounts — ESA 2010
+2.110 Subsector S.129 does not include:
+(a) institutional units which fulfil each of the two
+criteria listed in paragraph 2.117. They are classified in subsector S.1314;
+(b) head offices which oversee and manage a group
+consisting predominantly of pension funds, but
+which are not pension funds themselves. They
+are classified in subsector S.126;
+(c) non-profit institutions recognised as independent legal entities serving pension funds, but not
+engaged in financial intermediation. They are
+classified in subsector S.126.
+General government (S.13)
+2.111 Definition: the general government sector (S.13)
+consists of institutional units which are non-market producers whose output is intended for individual and collective consumption, and are financed
+by compulsory payments made by units belonging
+to other sectors, and institutional units principally
+engaged in the redistribution of national income
+and wealth.
+2.112 The institutional units included in sector S.13 are
+for example the following:
+(a) general government units which exist through
+a legal process to have judicial authority over
+other units in the economic territory, and
+administer and finance a group of activities, principally providing non-market goods
+and services, intended for the benefit of the
+community;
+(b) a corporation or quasi-corporation which is a
+government unit, if its output is mainly nonmarket and a government unit controls it;
+(c) non-profit institutions recognised as independent legal entities which are non-market
+producers and which are controlled by general
+government;
+(d) autonomous pension funds, where there is a
+legal obligation to contribute, and where general government manages the funds with
+respect to the settlement and approval of contributions and benefits.
+2.113 The general government sector is divided into four
+subsectors:
+(a) central government (excluding social security
+funds) (S.1311);
+(b) state government (excluding social security
+funds) (S.1312);
+(c) local government (excluding social security
+funds) (S.1313);
+(d) social security funds (S.1314).
+Central government (excluding social security funds)
+(S.1311)
+2.114 Definition: this subsector includes all administrative departments of the state and other central agencies whose competence extends normally
+over the whole economic territory, except for the
+administration of social security funds.
+Included in subsector S.1311 are those non-profit
+institutions which are controlled by central government and whose competence extends over the
+whole economic territory.
+Market regulatory organisations which are either
+exclusively or principally distributors of subsidies
+are classified in S.1311. Those organisations which
+are exclusively or principally engaged in buying,
+holding and selling agricultural or food products
+are classified in S.11.
+State government (excluding social security funds)
+(S.1312)
+2.115 Definition: this subsector consists of those types
+of public administration which are separate institutional units exercising some of the functions of
+government, except for the administration of social
+security funds, at a level below that of central government and above that of the governmental institutional units existing at local level.
+Included in subsector S.1312 are those non-profit
+institutions which are controlled by state governments and whose competence is restricted to the
+economic territories of the states.
+Units and groupings of units
+ European system of accounts — ESA 2010 45
+2
+Local government (excluding social security funds)
+(S.1313)
+2.116 Definition: this subsector includes those types of
+public administration whose competence extends
+to only a local part of the economic territory, apart
+from local agencies of social security funds.
+Included in subsector S.1313 are those non-profit
+institutions which are controlled by local governments and whose competence is restricted to the
+economic territories of the local governments.
+Social security funds (S.1314)
+2.117 Definition: the social security funds subsector
+includes central, state and local institutional units
+whose principal activity is to provide social benefits
+and which fulfil each of the following two criteria:
+(a) by law or by regulation certain groups of the
+population are obliged to participate in the
+scheme or to pay contributions; and
+(b) general government is responsible for the management of the institution in respect of the settlement or approval of the contributions and
+benefits independently from its role as supervisory body or employer.
+There is usually no direct link between the amount
+of the contribution paid by an individual and the
+risk to which that individual is exposed.
+Households (S.14)
+2.118 Definition: the households sector (S.14) consists of
+individuals or groups of individuals as consumers
+and as entrepreneurs producing market goods and
+non-financial and financial services (market producers) provided that the production of goods and
+services is not by separate entities treated as quasicorporations. It also includes individuals or groups
+of individuals as producers of goods and nonfinancial services for exclusively own final use.
+Households as consumers may be defined as
+small groups of persons who share the same living accommodation, who pool their income and
+wealth and who consume certain types of goods
+and services collectively, mainly housing and food.
+The principal resources of households are the
+following:
+(a) the compensation of employees;
+(b) property income;
+(c) transfers from other sectors;
+(d) receipts from the disposal of market products;
+and
+(e) imputed receipts from the output of products
+for own final consumption.
+2.119 The households sector includes:
+(a) individuals or groups of individuals whose
+principal function is consumption;
+(b) persons living permanently in institutions who
+have little or no autonomy of action or decision in economic matters (e.g. members of religious orders living in monasteries, long-term
+patients in hospitals, prisoners serving long
+sentences, old persons living permanently in
+retirement homes). Such people are treated as
+a single institutional unit: a single household;
+(c) individuals or groups of individuals whose
+principal function is consumption and that
+produce goods and non-financial services for
+exclusively own final use; only two categories
+of services produced for own final consumption are included within the system: services of
+owner-occupied dwellings and domestic services produced by paid employees;
+(d) sole proprietorships and partnerships without
+legal status, other than those treated as quasicorporations, and which are market producers;
+and
+(e) non-profit institutions serving households,
+which do not have independent legal status,
+or those which do but which are of only minor
+importance.
+2.120 In the ESA 2010, the households sector is subdivided into the following subsectors:
+(a) employers (S.141) and own-account workers
+(S.142);
+(b) employees (S.143);
+2 Units and groupings of units
+46 European system of accounts — ESA 2010
+(c) recipients of property income (S.1441);
+(d) recipients of pensions (S.1442);
+(e) recipients of other transfers (S.1443).
+2.121 Households are allocated to subsectors according
+to the largest income category (employers’ income,
+compensation of employees, etc.) of the household as a whole. When more than one income of a
+given category is received within the same household, the classification is based on the total household income within each category.
+Employers and own-account workers (S.141 and
+S.142)
+2.122 Definition: the employers and own-account workers subsector consists of the group of households
+for which the (mixed) incomes (B.3) accruing to
+the owners of household unincorporated enterprises from their activity as producers of market
+goods and services with or without paid employees
+are the largest source of income for the household
+as a whole, even if it does not account for more
+than half of total household income.
+Employees (S.143)
+2.123 Definition: the employees subsector consists of the
+group of households for which the income accruing from compensation of employees (D.1) is the
+largest source of income for the household as a
+whole.
+Recipients of property income (S.1441)
+2.124 Definition: the recipients of property income subsector consists of the group of households for
+which property income (D.4) is the largest source
+of income for the household as a whole.
+Recipients of pensions (S.1442)
+2.125 Definition: the recipients of pensions subsector consists of the group of households for which
+the income accruing from pensions is the largest
+source of income for the household as a whole.
+Pension households are households whose largest source of income consists of retirement or
+other pensions, including pensions from previous
+employers.
+Recipients of other transfers (S.1443)
+2.126 Definition: the recipients of other transfers subsector consists of the group of households for which
+the income accruing from other current transfers
+is the largest source of income for the household as
+a whole.
+Other current transfers are all current transfers
+other than property income, pensions and income
+of persons living permanently in institutions.
+2.127 If information on the relative contributions of the
+sources of income of the household as a whole is
+not available for sectoring purposes, the income
+of the reference person is used for classifying purposes. The reference person of a household is the
+person with the largest income. If the latter information is not available, the income of the person
+who states that he/she is the reference person is
+used for subsectoring households.
+2.128 Other criteria for subsectoring households can be
+used, e.g. breakdown of households as entrepreneurs by activity: agricultural households and nonagricultural households.
+Non-profit institutions serving households
+(S.15)
+2.129 Definition: the non-profit institutions serving
+households (NPISHs) sector (S.15) consists of nonprofit institutions which are separate legal entities, which serve households and which are private
+non-market producers. Their principal resources
+are voluntary contributions in cash or in kind from
+households in their capacity as consumers, from
+payments made by general government and from
+property income.
+2.130 Where such institutions are not very important,
+they are not included in the NPISH sector, but in
+the households sector (S.14), as their transactions
+are indistinguishable from units in that sector.
+Non-market NPISHs controlled by general government are classified in the general government
+sector (S.13).
+Units and groupings of units
+ European system of accounts — ESA 2010 47
+2
+The NPISHs sector includes the following main
+kinds of NPISHs that provide non-market goods
+and services to households:
+(a) trade unions, professional or learned societies, consumers’ associations, political parties,
+churches or religious societies (including those
+financed but not controlled by governments),
+and social, cultural, recreational and sports
+clubs; and
+(b) charities, relief and aid organisations financed
+by voluntary transfers in cash or in kind from
+other institutional units.
+Sector S.15 includes charities, relief or aid agencies serving non-resident units and excludes entities where membership gives a right to a predetermined set of goods and services.
+Rest of the world (S.2)
+2.131 Definition: the rest of the world sector (S.2) is a
+grouping of units without any characteristic functions and resources; it consists of non-resident
+units insofar as they are engaged in transactions
+with resident institutional units, or have other economic links with resident units. Its accounts provide an overall view of the economic relationships
+linking the national economy with the rest of the
+world. The institutions of the EU and international
+organisations are included.
+2.132 The rest of the world is not a sector for which complete sets of accounts have to be kept, but it is convenient to treat the rest of the world as a sector.
+Sectors are obtained by disaggregating the total
+economy to obtain more homogeneous groups of
+resident institutional units, which are similar in
+respect to their economic behaviour, objectives
+and functions. This is not the case for the rest of
+the world sector: for this sector, there are recorded
+the transactions and other flows of non-financial
+and financial corporations, non-profit institutions,
+households and general government with non-resident institutional units and other economic relationships between residents and non-residents, e.g.
+claims by residents on non-residents.
+2.133 The accounts for the rest of the world include
+only transactions carried out between resident
+institutional units and non-resident units, subject
+to the following exceptions:
+(a) the services of transport (up to the border of the
+exporting country) provided by resident units
+in respect of imported goods are shown in the
+rest of the world accounts with FOB imports,
+even though they are produced by resident
+units;
+(b) transactions in foreign assets between residents
+belonging to different sectors in the domestic economy are shown in the detailed financial accounts for the rest of the world. These
+transactions do not affect the country’s financial position vis-à-vis the rest of the world; they
+affect the financial relationships of individual
+sectors with the rest of the world;
+(c) transactions in the country’s liabilities between
+non-residents belonging to different geographical zones are shown in the geographical
+breakdown of the rest of the world accounts.
+Although these transactions do not affect the
+country’s overall liability to the rest of the
+world, they affect its liabilities to different parts
+of the world.
+2.134 The rest of the world sector (S.2) is subdivided into:
+(a) Member States and institutions and bodies of
+the European Union (S.21):
+(1) Member States of the European Union (S.211);
+(2) Institutions and bodies of the European Union
+(S.212);
+(b) non-member countries and international
+organisations non-resident of EU (S.22).
+Sector classification of producer units for
+main standard legal forms of ownership
+2.135 The following overview and paragraphs 2.31 to 2.44
+summarise the principles underlying the classification of producer units into sectors, using the standard terminology for describing the main types of
+institutions.
+2.136 Private and public corporations which are market
+producers are classified as follows:
+2 Units and groupings of units
+48 European system of accounts — ESA 2010
+(a) those principally engaged in the production of
+goods and non-financial services: in sector S.11
+(non-financial corporations);
+(b) those principally engaged in financial intermediation and auxiliary financial activities: in sector S.12 (financial corporations).
+2.137 Cooperatives and partnerships which are recognised as independent legal entities and are market
+producers are classified as follows:
+(a) those principally engaged in the production of
+goods and non-financial services: in sector S.11
+(non-financial corporations);
+(b) those principally engaged in financial intermediation and auxiliary financial activities: in sector S.12 (financial corporations).
+2.138 Public producers which by virtue of special legislation are recognised as independent legal entities
+and which are market producers are classified as
+follows:
+(a) those principally engaged in the production of
+goods and non-financial services: in sector S.11
+(non-financial corporations);
+(b) those principally engaged in financial intermediation and auxiliary financial activities: in sector S.12 (financial corporations).
+2.139 Public producers which are not recognised as independent legal entities and are market producers are
+classified as follows:
+(a) If they are quasi-corporations:
+(1) those principally engaged in the production of
+goods and non-financial services: in sector S.11
+(non-financial corporations);
+(2) those principally engaged in financial intermediation and financial auxiliary activities: in sector S.12
+(financial corporations).
+(b) If they are not quasi-corporations: in sector
+S.13 (general government), as they remain an
+integral part of the units which control them.
+2.140 Non-profit institutions (associations and foundations) recognised as independent legal entities are
+classified as follows:
+(a) those which are market producers and principally engaged in the production of goods and
+non-financial services: in sector S.11 (nonfinancial corporations);
+(b) those principally engaged in financial intermediation and auxiliary financial activities: in sector S.12 (financial corporations);
+(c) those which are non-market producers:
+(1) in sector S.13 (general government), if they are public producers controlled by general government;
+(2) in sector S.15 (non-profit institutions serving
+households), if they are private producers.
+2.141 Sole proprietorships and partnerships which are
+not recognised as independent legal entities and
+are market producers are classified as follows:
+(a) If they are quasi-corporations:
+(1) those principally engaged in the production of
+goods and non-financial services: in sector S.11
+(non-financial corporations);
+(2) those principally engaged in financial intermediation and financial auxiliary activities: in sector S.12
+(financial corporations).
+(b) If they are not quasi-corporations, they are
+classified in sector S.14 (households).
+2.142 Head offices are classified as follows:
+(a) in sector S.11 (non-financial corporations), if
+the preponderant type of activity of the group
+of corporations which are market producers as
+a whole is the production of goods and nonfinancial services (see point (e) of paragraph
+2.46);
+(b) in sector S.12 (financial corporations), if the
+preponderant type of activity of the group of
+corporations as a whole is financial intermediation (see point (e) of paragraph 2.65).
+Holding companies which are holders of assets
+of a group of subsidiary corporations are always
+treated as financial corporations. Holding companies hold the assets of a group of companies, but
+do not undertake any management activities with
+respect to the group.
+2.143 Table 2.5 shows in schematic form the various
+cases enumerated above.
+Units and groupings of units
+ European system of accounts — ESA 2010 49
+2
+Table 2.5 — Sector classification of producer units for main standard legal forms of ownership
+Type of producer
+Standard legal description
+Market producers
+(goods and nonfinancial services)
+Market producers
+(financial
+intermediation)
+Non-market producers
+Public
+producers
+Private
+producers
+Private and public corporations S.11 non-financial
+corporations
+S.12 financial
+corporations
+Cooperatives and partnerships recognised as
+independent legal entities
+S.11 non-financial
+corporations
+S.12 financial
+corporations
+Public producers which by virtue of special
+legislation are recognised as independent legal
+entities
+S.11 non-financial
+corporations
+S.12 financial
+corporations
+Public producers not
+recognised as independent
+legal entities
+Those with the
+characteristics of
+quasi-corporations
+S.11 non-financial
+corporations
+S.12 financial
+corporations
+The rest S.13 general
+government
+Non-profit institutions recognised as
+independent legal entities
+S.11 non-financial
+corporations
+S.12 financial
+corporations
+S.13 general
+government
+S.15 non-profit
+institutions serving
+households
+Partnerships not recognised
+as independent legal
+entities
+Sole proprietorships
+Those with the
+characteristics of
+quasi-corporations
+S.11 non-financial
+corporations
+S.12 financial
+corporations
+The rest S.14 households S.14 households
+Head offices whose
+preponderant type of
+activity of the group of
+corporations controlled by
+them is the production of:
+goods and nonfinancial services
+S.11 non-financial
+corporations
+financial services S.12 financial
+corporations
+Local kind-of-activity units and
+industries
+2.144 Most institutional units producing goods and services are engaged in a combination of activities at
+the same time. They may be engaged in a principal
+activity, some secondary activities and some ancillary activities.
+2.145 An activity occurs when resources such as equipment, labour, manufacturing techniques, information networks or products are combined, leading to the creation of specific goods or services. An
+activity is characterised by an input of products, a
+production process and an output of products.
+Activities can be determined by reference to a specific level of NACE Rev. 2.
+2.146 If a unit carries out more than one activity, all the
+activities which are not ancillary activities (see
+Chapter  3, paragraph 3.12) are ranked according
+to the gross value added. On the basis of the preponderant gross value added generated, a distinction can then be made between principal activity
+and secondary activities.
+2.147 In order to analyse flows occurring in the process
+of production and in the use of goods and services,
+it is necessary to choose units which emphasise
+relationships of a technico-economic kind. This
+requirement means that institutional units must
+be partitioned into smaller and more homogeneous units with regard to the kind of production.
+Local kind-of-activity units are intended to meet
+this requirement as an operational approach.
+The local kind-of-activity unit
+2.148 Definition: the local kind-of-activity unit (local
+KAU) is the part of a kind-of-activity unit (KAU)
+2 Units and groupings of units
+50 European system of accounts — ESA 2010
+which corresponds to a local unit. The local KAU
+is called establishment in the 2008 SNA and ISIC
+Rev. 4. A KAU groups all the parts of an institutional unit in its capacity as producer contributing
+to the performance of an activity at class level (four
+digits) of the NACE Rev. 2 and corresponds to
+one or more operational subdivisions of the institutional unit. The institutional unit’s information
+system must be capable of indicating or calculating for each local KAU at least the value of production, intermediate consumption, compensation of
+employees, the operating surplus and employment
+and gross fixed capital formation.
+The local unit is an institutional unit, or part of an
+institutional unit, producing goods or services situated in a geographically identified place.
+A local KAU may correspond to an institutional
+unit as producer; on the other hand, it can never
+belong to two different institutional units.
+2.149 If an institutional unit producing goods or services
+contains a principal activity and also one or several secondary activities, it is subdivided into the
+same number of KAUs, and the secondary activities are classified under different headings from the
+principal activity. The ancillary activities are not
+separated from the principal or secondary activities. But KAUs falling within a particular heading
+of the classification system can produce products
+outside the homogeneous group on account of secondary activities connected with them which cannot be separately identified from available accounting documents. Thus a KAU may carry out one or
+more secondary activities.
+Industries
+2.150 Definition: an industry consists of a group of local
+KAUs engaged in the same, or similar, kind-ofactivity. At the most detailed level of classification,
+an industry consists of all the local KAUs falling
+within a single class (four digits) of NACE Rev. 2
+and which are therefore engaged in the same activity as defined in the NACE Rev. 2.
+Industries comprise both local KAUs producing
+market goods and services and local KAUs producing non-market goods and services. An industry by definition consists of a group of local KAUs
+engaged in the same type of productive activity,
+irrespective of whether or not the institutional
+units to which they belong produce market or nonmarket output.
+2.151 Industries are classified in three categories:
+(a) industries producing market goods and services (market industries) and goods and services for own final use. Services for own final
+use are housing services produced by owneroccupiers, and domestic services produced by
+employing paid staff;
+(b) industries producing non-market goods and
+services of general government: non-market
+industries of general government;
+(c) industries producing non-market goods and
+services of non-profit institutions serving
+households: non-market industries of nonprofit institutions serving households.
+Classification of industries
+2.152 The classification used for grouping local KAUs
+into industries is the NACE Rev. 2.
+Units of homogeneous production and
+homogeneous branches
+2.153 For analysis of the production process, the unit
+best suited to this analysis is the unit of homogeneous production. This unit has a unique activity
+defined by its inputs, process of production, and
+outputs.
+The unit of homogeneous production
+2.154 Definition: a unit of homogeneous production carries out a unique activity which is identified by
+its inputs, process of production, and its outputs.
+The products which constitute the inputs and outputs are themselves distinguished by their physical characteristics, the extent to which they are
+processed and the technique of production used.
+They can be identified by a classification of products (classification of products by activity — CPA).
+The CPA is a product classification the elements of
+which are structured according to the industrial
+Units and groupings of units
+ European system of accounts — ESA 2010 51
+2
+origin criterion, industrial origin being defined by
+NACE Rev. 2.
+The homogeneous branch
+2.155 Definition: the homogeneous branch consists
+of a grouping of units of homogeneous production. The set of activities covered by a homogeneous branch is identified by reference to a product
+classification. The homogeneous branch produces
+those goods or services specified in the classification and only those products.
+2.156 Homogeneous branches are units designed for economic analysis. Units of homogeneous production
+cannot usually be observed directly; data collected
+from the units used in statistical enquiries have to
+be re-arranged to form homogeneous branches.
